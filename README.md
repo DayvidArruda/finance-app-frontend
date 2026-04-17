@@ -7,6 +7,9 @@ Este é um projeto de gestão financeira pessoal desenvolvido para colocar em pr
 ## 🔗 Demonstração
 Acesse o projeto funcionando aqui: <https://finance-app-frontend-376scmoe3-dayvidarrudas-projects.vercel.app/>
 
+## 🎨 Layout
+![Demonstração do App](finance-gif.gif)
+
 ## 🛠️ Tecnologias Utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
 - **HTML5**: Estruturação semântica.
@@ -18,9 +21,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Cálculo automático de saldo, receitas e despesas.
 - [x] Persistência de dados (opcional se você usou LocalStorage).
 - [x] Layout responsivo para dispositivos móveis.
-
-## 🎨 Layout
-![Demonstração do App](finance-gif.gif)
 
 ## ✒️ Autor
 Desenvolvido por **Dayvid Arruda**.
