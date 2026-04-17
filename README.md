@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Layout responsivo para dispositivos móveis.
 
 ## 🎨 Layout
-Você pode incluir uma imagem ou GIF do projeto aqui para gerar impacto visual imediato.
+![Demonstração do App](finance-gif.gif)
 
 ## ✒️ Autor
 Desenvolvido por **Dayvid Arruda**.
